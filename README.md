@@ -1,2 +1,2 @@
 # IntroToProg-Python-Mod07
-Python script and knowledge document for Assignment 07, Intro to Python
+Python script, knowledge document, and starter JSON file for Assignment 07, Intro to Python
